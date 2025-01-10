@@ -225,7 +225,7 @@ body { background: var(--white); }
   left: 0;
   width: 100%;
   transition: var(--transition);
-  border-bottom: 1px solid hsla(0, 0%, 100%, 0.1);
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0);
   padding-block: 15px;
   z-index: 1;
 }
